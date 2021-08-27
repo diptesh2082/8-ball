@@ -22,3 +22,8 @@ flutter:
 
   assets:
     - images/
+
+  fonts:
+  - family: BigShouldersStencilDisplay
+    fonts:
+    - asset: fonts/BigShouldersStencilDisplay-Regular.ttf
